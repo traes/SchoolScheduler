@@ -1,0 +1,10 @@
+# application layer
+host=localhost
+port=4242
+
+# MySQL Database
+db_host=localhost
+db_name=prp
+db_user=root
+db_pasw=dbpwd
+

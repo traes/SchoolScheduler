@@ -1,0 +1,65 @@
+Programmeerproject 2005-2006
+============================
+
+Thomas Raes 75972 traes@vub.ac.be
+
+1 Inhoud
+--------
+
+Deze directory bevat de code voor het programmeerproject van de 1e Licentie Kerninformatica 2005-2006.
+Het programma stelt uurroosters op voor hogescholen.
+
+2 Installatie
+-------------
+
+2.0 Benodigdheden
+  
+- GNU/Linux (getest met versie 2.6.13)  
+- Apache    (getest met versie 2.0.54)
+- MySQL     (getest met versie 4.1.13)
+- ruby      (getest met versie 1.8.2)
+- eruby     (getest met versie 1.0.5)
+
+2.1 Interface 
+
+De directory code/interface/prp moet via apache bereikbaar zijn, en de bestanden moeten als cgi uitgevoerd kunnen worden.
+De permissies van de .cgi bestanden moeten op uitvoerbaar staan (chmod +x).
+De hostname en het poortnummer waarop de applicatielaag bereikbaar is, kunnen ingesteld worden in het bestand 'config'.
+
+2.2 Applicatie
+
+De hostname en het poortnummer waarop de applicatielaag naar de interfacelaag luisterst kunnen ingesteld worden in het bestand 'config'.
+De hostname en het poortnummer waarop de datalaag bereikbaar is kunnen hier ook ingesteld worden.
+In hetzelfde bestand kan ook de directory voor de logfiles en de parameters van het scheduling algoritme ingesteld worden.
+
+2.3 Data
+
+De hostname en het poortnummer waarop de datalaag naar de applicatielaag moet luisteren kunnen ingesteld worden in het bestand 'config'.
+De logingegevens voor MySQL kunnen hier ook ingesteld worden.
+Er moet een nieuwe database aangemaakt worden in MySQL, daarna moet het schema dat te vinden is in de directory 'mysql' ingeladen worden in deze database.
+
+3 Starten
+---------
+
+2.0 Voorbereiding
+
+- Apache starten (onder SuSE: rcapache2 start)
+- MySQL starten  (onder SuSE: rcmysql start)
+
+2.1 Applicatie
+
+ruby run-application-layer.rb
+ruby run-node.rb poortnummer (op elke cluster node)
+
+2.2 Data 
+
+ruby run-data-layer.rb
+
+4 Gebruik
+---------
+
+Na het installeren bestaat er enkel een system account.
+Deze kan inloggen met het paswoord dat in het de config file van de applicatielaag staat, en vervolgens andere accounts aanmaken.
+
+
+

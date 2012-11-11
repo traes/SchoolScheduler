@@ -1,0 +1,2 @@
+class StudentSessionController < AbstractSessionController
+end

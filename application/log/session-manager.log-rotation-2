@@ -1,0 +1,85 @@
+# Logfile created on Sun May 28 22:20:00 CEST 2006 by logger.rb/1.5.2.4
+I, [2006-05-28T22:20:00.494742 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:03.062341 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:03.063759 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:03.068047 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:03.068491 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:03.073513 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:03.074864 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:03.078876 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:03.080136 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:05.087886 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:05.105944 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:05.109947 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:05.110441 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:05.114633 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:05.115869 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:05.120040 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:05.121378 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:08.374228 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:08.375467 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:08.380067 #13824]  INFO -- : <COMMAND submit='toevoegen' type='view_logfile' id='c4ca4238a0b923820dcc509a6f75849b' filename='auth-manager.log'/>
+I, [2006-05-28T22:20:08.382473 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:08.386587 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:08.387039 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:08.391285 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:08.392535 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:08.396557 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:08.397860 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:11.537785 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:11.539045 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:11.543594 #13824]  INFO -- : <COMMAND submit='toevoegen' type='view_logfile' id='c4ca4238a0b923820dcc509a6f75849b' filename='config-manager.log'/>
+I, [2006-05-28T22:20:11.545966 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:11.550785 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:11.551242 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:11.555297 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:11.556525 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:11.560626 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:11.562326 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:16.247548 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:16.248855 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:16.253583 #13824]  INFO -- : <COMMAND submit='toevoegen' type='view_logfile' id='c4ca4238a0b923820dcc509a6f75849b' filename='session-manager.log'/>
+I, [2006-05-28T22:20:16.284115 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:16.302006 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:16.302474 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:16.306681 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:16.307891 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:16.311882 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:16.313062 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:24.258059 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:24.259254 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:24.263755 #13824]  INFO -- : <COMMAND submit='toevoegen' type='view_logfile' id='c4ca4238a0b923820dcc509a6f75849b' filename='user-manager.log'/>
+I, [2006-05-28T22:20:24.265370 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:24.269714 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:24.270162 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:24.274443 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:24.275669 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:24.280992 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:24.282610 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:31.938741 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:31.939967 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:31.944594 #13824]  INFO -- : <COMMAND submit='toevoegen' type='view_logfile' id='c4ca4238a0b923820dcc509a6f75849b' filename='session-manager.log'/>
+I, [2006-05-28T22:20:31.960789 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:31.983520 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:31.983974 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:32.003958 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:32.008352 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:32.012380 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:32.013616 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:48.121744 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:48.122994 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:48.127103 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:48.127549 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:48.132256 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:48.133457 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:48.137576 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:48.140160 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:58.184168 #13824]  INFO -- : <COMMAND type='get_usertype' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:58.185400 #13824]  INFO -- : <RESULT usertype='system-admin'/>
+I, [2006-05-28T22:20:58.189500 #13824]  INFO -- : <COMMAND type='get_homepage' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:58.190701 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:58.194772 #13824]  INFO -- : <COMMAND type='get_username' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:58.196005 #13824]  INFO -- : <RESULT username='system'/>
+I, [2006-05-28T22:20:58.200015 #13824]  INFO -- : <COMMAND type='get_style' id='c4ca4238a0b923820dcc509a6f75849b'/>
+I, [2006-05-28T22:20:58.200445 #13824]  INFO -- : session handled
+I, [2006-05-28T22:20:58.204537 #13824]  INFO -- : <COMMAND type='rotate_logs' id='c4ca4238a0b923820dcc509a6f75849b'/>

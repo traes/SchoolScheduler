@@ -1,0 +1,498 @@
+# Logfile created on Mon May 29 22:40:01 CEST 2006 by logger.rb/1.5.2.4
+I, [2006-05-29T23:01:26.559554 #11569]  INFO -- : creating schedule version 1
+I, [2006-05-29T23:01:26.561048 #11569]  INFO -- : adding classrooms
+I, [2006-05-29T23:01:26.589318 #11569]  INFO -- : adding timeslots
+I, [2006-05-29T23:01:26.650164 #11569]  INFO -- : adding course meetings
+I, [2006-05-29T23:01:26.662915 #11569]  INFO -- : adding constraints information
+I, [2006-05-29T23:01:26.747226 #11569]  INFO -- : starting DRB
+I, [2006-05-29T23:01:26.791509 #11569]  INFO -- : added node druby://localhost:3333
+I, [2006-05-29T23:01:26.791736 #11569]  INFO -- : added node druby://localhost:4444
+I, [2006-05-29T23:01:26.791872 #11569]  INFO -- : added node druby://localhost:5555
+I, [2006-05-29T23:01:26.810881 #11569]  INFO -- : started scheduler
+I, [2006-05-29T23:01:26.859149 #11569]  INFO -- : started scheduler
+I, [2006-05-29T23:01:26.867543 #11569]  INFO -- : started scheduler
+I, [2006-05-29T23:01:26.874518 #11569]  INFO -- : started scheduler
+I, [2006-05-29T23:01:26.874744 #11569]  INFO -- : score: 0
+I, [2006-05-29T23:01:26.881343 #11569]  INFO -- : score: 0
+I, [2006-05-29T23:01:26.884741 #11569]  INFO -- : score: 0
+I, [2006-05-29T23:01:26.887087 #11569]  INFO -- : score: 0
+I, [2006-05-29T23:02:40.881136 #11626]  INFO -- : creating schedule version 1
+I, [2006-05-29T23:02:40.882260 #11626]  INFO -- : adding classrooms
+I, [2006-05-29T23:02:40.898043 #11626]  INFO -- : adding timeslots
+I, [2006-05-29T23:02:40.959468 #11626]  INFO -- : adding course meetings
+I, [2006-05-29T23:02:41.264817 #11626]  INFO -- : adding constraints information
+I, [2006-05-29T23:02:41.358068 #11626]  INFO -- : starting DRB
+I, [2006-05-29T23:02:41.382680 #11626]  INFO -- : added node druby://localhost:3333
+I, [2006-05-29T23:02:41.382904 #11626]  INFO -- : added node druby://localhost:4444
+I, [2006-05-29T23:02:41.383039 #11626]  INFO -- : added node druby://localhost:5555
+I, [2006-05-29T23:02:41.401986 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:02:41.478470 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:02:41.504942 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:02:41.510394 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:02:41.510633 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:02:41.512378 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:02:41.514393 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:02:41.516391 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:13:25.713607 #11626]  INFO -- : creating schedule version 2
+I, [2006-05-29T23:13:25.714714 #11626]  INFO -- : adding classrooms
+I, [2006-05-29T23:13:25.729952 #11626]  INFO -- : adding timeslots
+I, [2006-05-29T23:13:25.790948 #11626]  INFO -- : adding course meetings
+I, [2006-05-29T23:13:25.803712 #11626]  INFO -- : adding constraints information
+I, [2006-05-29T23:13:25.882402 #11626]  INFO -- : starting DRB
+I, [2006-05-29T23:13:25.910958 #11626]  INFO -- : added node druby://localhost:3333
+I, [2006-05-29T23:13:25.911365 #11626]  INFO -- : added node druby://localhost:4444
+I, [2006-05-29T23:13:25.911702 #11626]  INFO -- : added node druby://localhost:5555
+I, [2006-05-29T23:13:25.944233 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:13:26.027906 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:13:26.033835 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:13:26.313808 #11626]  INFO -- : started scheduler
+I, [2006-05-29T23:13:26.314081 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:13:26.315183 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:13:26.316910 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:13:26.318510 #11626]  INFO -- : score: 0
+I, [2006-05-29T23:15:59.211196 #11787]  INFO -- : creating schedule version 1
+I, [2006-05-29T23:15:59.212253 #11787]  INFO -- : adding classrooms
+I, [2006-05-29T23:15:59.228605 #11787]  INFO -- : adding timeslots
+I, [2006-05-29T23:15:59.307311 #11787]  INFO -- : adding course meetings
+I, [2006-05-29T23:15:59.319019 #11787]  INFO -- : adding constraints information
+I, [2006-05-29T23:15:59.381501 #11787]  INFO -- : starting DRB
+I, [2006-05-29T23:15:59.425912 #11787]  INFO -- : added node druby://localhost:3333
+I, [2006-05-29T23:15:59.426418 #11787]  INFO -- : added node druby://localhost:4444
+I, [2006-05-29T23:15:59.426806 #11787]  INFO -- : added node druby://localhost:5555
+I, [2006-05-29T23:15:59.460318 #11787]  INFO -- : started scheduler
+I, [2006-05-29T23:15:59.508793 #11787]  INFO -- : started scheduler
+I, [2006-05-29T23:15:59.513252 #11787]  INFO -- : started scheduler
+I, [2006-05-29T23:15:59.517959 #11787]  INFO -- : started scheduler
+I, [2006-05-29T23:15:59.518187 #11787]  INFO -- : score: 0
+I, [2006-05-29T23:15:59.519291 #11787]  INFO -- : score: 0
+I, [2006-05-29T23:15:59.528219 #11787]  INFO -- : score: 0
+I, [2006-05-29T23:15:59.530297 #11787]  INFO -- : score: 0
+I, [2006-05-30T10:17:42.964631 #6509]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:17:43.007549 #6509]  INFO -- : adding classrooms
+I, [2006-05-30T10:17:43.234996 #6509]  INFO -- : adding timeslots
+I, [2006-05-30T10:17:43.273245 #6509]  INFO -- : adding course meetings
+I, [2006-05-30T10:17:43.307164 #6509]  INFO -- : adding constraints information
+I, [2006-05-30T10:17:43.411268 #6509]  INFO -- : starting DRB
+I, [2006-05-30T10:17:43.497415 #6509]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:17:43.497583 #6509]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:17:43.497663 #6509]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:17:43.497848 #6509] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:17:43.497998 #6509] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:17:43.498172 #6509] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:17:43.498412 #6509] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:17:43.498675 #6509]  INFO -- : score: 0
+E, [2006-05-30T10:17:43.499231 #6509] ERROR -- : cannot get score from node
+E, [2006-05-30T10:17:43.499706 #6509] ERROR -- : cannot get score from node
+E, [2006-05-30T10:17:43.500113 #6509] ERROR -- : cannot get score from node
+I, [2006-05-30T10:20:39.787083 #6591]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:20:39.787812 #6591]  INFO -- : adding classrooms
+I, [2006-05-30T10:20:39.797691 #6591]  INFO -- : adding timeslots
+I, [2006-05-30T10:20:39.838320 #6591]  INFO -- : adding course meetings
+I, [2006-05-30T10:20:39.846205 #6591]  INFO -- : adding constraints information
+I, [2006-05-30T10:20:39.905280 #6591]  INFO -- : starting DRB
+I, [2006-05-30T10:20:39.932711 #6591]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:20:39.932994 #6591]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:20:39.933190 #6591]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:20:39.933534 #6591] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:20:39.933884 #6591] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:20:39.934278 #6591] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:20:39.934744 #6591] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:20:39.935241 #6591]  INFO -- : score: 0
+E, [2006-05-30T10:20:39.936007 #6591] ERROR -- : cannot get score from node
+E, [2006-05-30T10:20:39.936787 #6591] ERROR -- : cannot get score from node
+E, [2006-05-30T10:20:39.937490 #6591] ERROR -- : cannot get score from node
+I, [2006-05-30T10:22:00.183745 #6639]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:22:00.184522 #6639]  INFO -- : adding classrooms
+I, [2006-05-30T10:22:00.365239 #6639]  INFO -- : adding timeslots
+I, [2006-05-30T10:22:00.482240 #6639]  INFO -- : adding course meetings
+I, [2006-05-30T10:22:00.490446 #6639]  INFO -- : adding constraints information
+I, [2006-05-30T10:22:00.534786 #6639]  INFO -- : starting DRB
+I, [2006-05-30T10:22:00.567410 #6639]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:22:00.567571 #6639]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:22:00.567650 #6639]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:22:00.568361 #6639] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:00.568479 #6639] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:00.568640 #6639] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:00.568860 #6639] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:22:00.569250 #6639]  INFO -- : score: 0
+E, [2006-05-30T10:22:00.569826 #6639] ERROR -- : cannot get score from node
+E, [2006-05-30T10:22:00.570268 #6639] ERROR -- : cannot get score from node
+E, [2006-05-30T10:22:00.570697 #6639] ERROR -- : cannot get score from node
+I, [2006-05-30T10:22:47.084088 #6668]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:22:47.084820 #6668]  INFO -- : adding classrooms
+I, [2006-05-30T10:22:47.095601 #6668]  INFO -- : adding timeslots
+I, [2006-05-30T10:22:47.133575 #6668]  INFO -- : adding course meetings
+I, [2006-05-30T10:22:47.160670 #6668]  INFO -- : adding constraints information
+I, [2006-05-30T10:22:47.203221 #6668]  INFO -- : starting DRB
+I, [2006-05-30T10:22:47.236914 #6668]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:22:47.237250 #6668]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:22:47.237522 #6668]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:22:47.237948 #6668] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:47.238384 #6668] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:47.238910 #6668] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:22:47.239534 #6668] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:22:47.240116 #6668]  INFO -- : score: 0
+E, [2006-05-30T10:22:47.240931 #6668] ERROR -- : cannot get score from node
+E, [2006-05-30T10:22:47.241662 #6668] ERROR -- : cannot get score from node
+E, [2006-05-30T10:22:47.242470 #6668] ERROR -- : cannot get score from node
+I, [2006-05-30T10:23:53.057445 #6700]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:23:53.058179 #6700]  INFO -- : adding classrooms
+I, [2006-05-30T10:23:53.239245 #6700]  INFO -- : adding timeslots
+I, [2006-05-30T10:23:53.279587 #6700]  INFO -- : adding course meetings
+I, [2006-05-30T10:23:53.287621 #6700]  INFO -- : adding constraints information
+I, [2006-05-30T10:23:53.332066 #6700]  INFO -- : starting DRB
+I, [2006-05-30T10:23:53.397805 #6700]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:23:53.397967 #6700]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:23:53.398045 #6700]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:23:53.398233 #6700] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:23:53.398387 #6700] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:23:53.398559 #6700] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:23:53.398777 #6700] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:23:53.399033 #6700]  INFO -- : score: 0
+E, [2006-05-30T10:23:53.399568 #6700] ERROR -- : cannot get score from node
+E, [2006-05-30T10:23:53.399980 #6700] ERROR -- : cannot get score from node
+E, [2006-05-30T10:23:53.400388 #6700] ERROR -- : cannot get score from node
+I, [2006-05-30T10:25:13.590107 #6743]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:25:13.590845 #6743]  INFO -- : adding classrooms
+I, [2006-05-30T10:25:13.761701 #6743]  INFO -- : adding timeslots
+I, [2006-05-30T10:25:13.802882 #6743]  INFO -- : adding course meetings
+I, [2006-05-30T10:25:13.810684 #6743]  INFO -- : adding constraints information
+I, [2006-05-30T10:25:13.856355 #6743]  INFO -- : starting DRB
+I, [2006-05-30T10:25:13.879800 #6743]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:25:13.879962 #6743]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:25:13.880039 #6743]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:26:18.807328 #6784]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:26:18.808051 #6784]  INFO -- : adding classrooms
+I, [2006-05-30T10:26:18.988950 #6784]  INFO -- : adding timeslots
+I, [2006-05-30T10:26:19.028185 #6784]  INFO -- : adding course meetings
+I, [2006-05-30T10:26:19.036183 #6784]  INFO -- : adding constraints information
+I, [2006-05-30T10:26:19.096576 #6784]  INFO -- : starting DRB
+I, [2006-05-30T10:26:19.122884 #6784]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:26:19.123115 #6784]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:26:19.123194 #6784]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:26:42.633907 #6811]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:26:42.634653 #6811]  INFO -- : adding classrooms
+I, [2006-05-30T10:26:42.812643 #6811]  INFO -- : adding timeslots
+I, [2006-05-30T10:26:42.854302 #6811]  INFO -- : adding course meetings
+I, [2006-05-30T10:26:42.862208 #6811]  INFO -- : adding constraints information
+I, [2006-05-30T10:26:42.906871 #6811]  INFO -- : starting DRB
+I, [2006-05-30T10:26:42.931489 #6811]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:26:42.931652 #6811]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:26:42.931751 #6811]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:26:42.940447 #6811]  INFO -- : started scheduler
+E, [2006-05-30T10:26:42.941814 #6811] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:26:42.942363 #6811] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:26:42.942678 #6811] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:26:42.942968 #6811]  INFO -- : score: 0
+E, [2006-05-30T10:26:42.943450 #6811] ERROR -- : cannot get score from node
+E, [2006-05-30T10:26:42.943893 #6811] ERROR -- : cannot get score from node
+E, [2006-05-30T10:26:42.951894 #6811] ERROR -- : cannot get score from node
+I, [2006-05-30T10:31:53.675060 #6916]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:31:53.675807 #6916]  INFO -- : adding classrooms
+I, [2006-05-30T10:31:53.685497 #6916]  INFO -- : adding timeslots
+I, [2006-05-30T10:31:53.741464 #6916]  INFO -- : adding course meetings
+I, [2006-05-30T10:31:53.767871 #6916]  INFO -- : adding constraints information
+I, [2006-05-30T10:31:53.815147 #6916]  INFO -- : starting DRB
+I, [2006-05-30T10:31:53.851361 #6916]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:31:53.851716 #6916]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:31:53.851960 #6916]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:31:53.855099 #6916] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:31:53.857063 #6916] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:31:53.858152 #6916] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:31:53.858746 #6916] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:31:53.859287 #6916]  INFO -- : score: 0
+E, [2006-05-30T10:31:53.860033 #6916] ERROR -- : cannot get score from node
+E, [2006-05-30T10:31:53.860751 #6916] ERROR -- : cannot get score from node
+E, [2006-05-30T10:31:53.861472 #6916] ERROR -- : cannot get score from node
+I, [2006-05-30T10:32:41.400803 #6955]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:32:41.401543 #6955]  INFO -- : adding classrooms
+I, [2006-05-30T10:32:41.411110 #6955]  INFO -- : adding timeslots
+I, [2006-05-30T10:32:41.450242 #6955]  INFO -- : adding course meetings
+I, [2006-05-30T10:32:41.458069 #6955]  INFO -- : adding constraints information
+I, [2006-05-30T10:32:41.502620 #6955]  INFO -- : starting DRB
+I, [2006-05-30T10:32:41.537802 #6955]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:32:41.537992 #6955]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:32:41.538068 #6955]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:35:26.843983 #6998]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:35:26.844738 #6998]  INFO -- : adding classrooms
+I, [2006-05-30T10:35:26.854586 #6998]  INFO -- : adding timeslots
+I, [2006-05-30T10:35:26.893237 #6998]  INFO -- : adding course meetings
+I, [2006-05-30T10:35:26.900958 #6998]  INFO -- : adding constraints information
+I, [2006-05-30T10:35:26.946018 #6998]  INFO -- : starting DRB
+I, [2006-05-30T10:35:26.975612 #6998]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:35:26.975796 #6998]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:35:26.975873 #6998]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:38:40.360530 #7067]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:38:40.361282 #7067]  INFO -- : adding classrooms
+I, [2006-05-30T10:38:40.543382 #7067]  INFO -- : adding timeslots
+I, [2006-05-30T10:38:40.585428 #7067]  INFO -- : adding course meetings
+I, [2006-05-30T10:38:40.593255 #7067]  INFO -- : adding constraints information
+I, [2006-05-30T10:38:40.652631 #7067]  INFO -- : starting DRB
+I, [2006-05-30T10:38:40.678244 #7067]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:38:40.678428 #7067]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:38:40.678506 #7067]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:39:46.063190 #7106]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:39:46.063921 #7106]  INFO -- : adding classrooms
+I, [2006-05-30T10:39:46.236134 #7106]  INFO -- : adding timeslots
+I, [2006-05-30T10:39:46.278556 #7106]  INFO -- : adding course meetings
+I, [2006-05-30T10:39:46.286408 #7106]  INFO -- : adding constraints information
+I, [2006-05-30T10:39:46.331371 #7106]  INFO -- : starting DRB
+I, [2006-05-30T10:39:46.357397 #7106]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:39:46.357565 #7106]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:39:46.357643 #7106]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:40:12.390707 #7133]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:40:12.391499 #7133]  INFO -- : adding classrooms
+I, [2006-05-30T10:40:12.620310 #7133]  INFO -- : adding timeslots
+I, [2006-05-30T10:40:12.662397 #7133]  INFO -- : adding course meetings
+I, [2006-05-30T10:40:12.688956 #7133]  INFO -- : adding constraints information
+I, [2006-05-30T10:40:12.733510 #7133]  INFO -- : starting DRB
+I, [2006-05-30T10:40:12.759994 #7133]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:40:12.760159 #7133]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:40:12.760237 #7133]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:40:12.772617 #7133]  INFO -- : started scheduler
+E, [2006-05-30T10:40:12.773893 #7133] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:40:12.774407 #7133] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:40:12.774698 #7133] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:40:12.774983 #7133]  INFO -- : score: 0
+E, [2006-05-30T10:40:12.775506 #7133] ERROR -- : cannot get score from node
+E, [2006-05-30T10:40:12.775923 #7133] ERROR -- : cannot get score from node
+E, [2006-05-30T10:40:12.776310 #7133] ERROR -- : cannot get score from node
+I, [2006-05-30T10:43:56.974358 #7238]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:43:56.975086 #7238]  INFO -- : adding classrooms
+I, [2006-05-30T10:43:57.154638 #7238]  INFO -- : adding timeslots
+I, [2006-05-30T10:43:57.193970 #7238]  INFO -- : adding course meetings
+I, [2006-05-30T10:43:57.201944 #7238]  INFO -- : adding constraints information
+I, [2006-05-30T10:43:57.246253 #7238]  INFO -- : starting DRB
+I, [2006-05-30T10:43:57.276131 #7238]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:43:57.276341 #7238]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:43:57.276419 #7238]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:43:57.276684 #7238] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:43:57.278243 #7238] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:43:57.278730 #7238] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:43:57.279035 #7238] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:43:57.279337 #7238]  INFO -- : score: 0
+E, [2006-05-30T10:43:57.279850 #7238] ERROR -- : cannot get score from node
+E, [2006-05-30T10:43:57.280275 #7238] ERROR -- : cannot get score from node
+E, [2006-05-30T10:43:57.280682 #7238] ERROR -- : cannot get score from node
+I, [2006-05-30T10:44:17.398258 #7264]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:44:17.399013 #7264]  INFO -- : adding classrooms
+I, [2006-05-30T10:44:17.579125 #7264]  INFO -- : adding timeslots
+I, [2006-05-30T10:44:17.618055 #7264]  INFO -- : adding course meetings
+I, [2006-05-30T10:44:17.626285 #7264]  INFO -- : adding constraints information
+I, [2006-05-30T10:44:17.671781 #7264]  INFO -- : starting DRB
+I, [2006-05-30T10:44:17.696588 #7264]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:44:17.696775 #7264]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:44:17.696853 #7264]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:45:53.016985 #7312]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:45:53.017711 #7312]  INFO -- : adding classrooms
+I, [2006-05-30T10:45:53.229380 #7312]  INFO -- : adding timeslots
+I, [2006-05-30T10:45:53.269266 #7312]  INFO -- : adding course meetings
+I, [2006-05-30T10:45:53.277340 #7312]  INFO -- : adding constraints information
+I, [2006-05-30T10:45:53.337413 #7312]  INFO -- : starting DRB
+I, [2006-05-30T10:45:53.361494 #7312]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:45:53.361681 #7312]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:45:53.361760 #7312]  INFO -- : added node druby://localhost:5555
+I, [2006-05-30T10:46:16.738554 #7338]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:46:16.739563 #7338]  INFO -- : adding classrooms
+I, [2006-05-30T10:46:16.753235 #7338]  INFO -- : adding timeslots
+I, [2006-05-30T10:46:16.951293 #7338]  INFO -- : adding course meetings
+I, [2006-05-30T10:46:16.959118 #7338]  INFO -- : adding constraints information
+I, [2006-05-30T10:46:17.003542 #7338]  INFO -- : starting DRB
+I, [2006-05-30T10:46:17.028076 #7338]  INFO -- : added node druby://localhost:3333
+I, [2006-05-30T10:46:17.028246 #7338]  INFO -- : added node druby://localhost:4444
+I, [2006-05-30T10:46:17.028325 #7338]  INFO -- : added node druby://localhost:5555
+E, [2006-05-30T10:46:17.030507 #7338] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:46:17.032193 #7338] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:46:17.032676 #7338] ERROR -- : failed to start scheduler
+E, [2006-05-30T10:46:17.033033 #7338] ERROR -- : failed to start scheduler
+I, [2006-05-30T10:46:17.033335 #7338]  INFO -- : score: 0
+E, [2006-05-30T10:46:17.033835 #7338] ERROR -- : cannot get score from node
+E, [2006-05-30T10:46:17.034261 #7338] ERROR -- : cannot get score from node
+E, [2006-05-30T10:46:17.034750 #7338] ERROR -- : cannot get score from node
+I, [2006-05-30T10:46:53.554122 #7380]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:46:53.554859 #7380]  INFO -- : adding classrooms
+I, [2006-05-30T10:46:53.736363 #7380]  INFO -- : adding timeslots
+I, [2006-05-30T10:46:53.775950 #7380]  INFO -- : adding course meetings
+I, [2006-05-30T10:46:53.783860 #7380]  INFO -- : adding constraints information
+I, [2006-05-30T10:46:53.828338 #7380]  INFO -- : starting DRB
+I, [2006-05-30T10:50:05.115427 #7411]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:50:05.116176 #7411]  INFO -- : adding classrooms
+I, [2006-05-30T10:50:05.296024 #7411]  INFO -- : adding timeslots
+I, [2006-05-30T10:50:05.336004 #7411]  INFO -- : adding course meetings
+I, [2006-05-30T10:50:05.343913 #7411]  INFO -- : adding constraints information
+I, [2006-05-30T10:50:05.403569 #7411]  INFO -- : starting DRB
+I, [2006-05-30T10:51:10.763425 #7440]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:51:10.764434 #7440]  INFO -- : adding classrooms
+I, [2006-05-30T10:51:10.997000 #7440]  INFO -- : adding timeslots
+I, [2006-05-30T10:51:11.035669 #7440]  INFO -- : adding course meetings
+I, [2006-05-30T10:51:11.043515 #7440]  INFO -- : adding constraints information
+I, [2006-05-30T10:51:11.088238 #7440]  INFO -- : starting DRB
+I, [2006-05-30T10:54:51.874759 #7474]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:54:51.875488 #7474]  INFO -- : adding classrooms
+I, [2006-05-30T10:54:52.047265 #7474]  INFO -- : adding timeslots
+I, [2006-05-30T10:54:52.089547 #7474]  INFO -- : adding course meetings
+I, [2006-05-30T10:54:52.114983 #7474]  INFO -- : adding constraints information
+I, [2006-05-30T10:54:52.157905 #7474]  INFO -- : starting DRB
+I, [2006-05-30T10:55:47.106295 #7500]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:55:47.107030 #7500]  INFO -- : adding classrooms
+I, [2006-05-30T10:55:47.311930 #7500]  INFO -- : adding timeslots
+I, [2006-05-30T10:55:47.354047 #7500]  INFO -- : adding course meetings
+I, [2006-05-30T10:55:47.361925 #7500]  INFO -- : adding constraints information
+I, [2006-05-30T10:55:47.406218 #7500]  INFO -- : starting DRB
+I, [2006-05-30T10:56:29.892256 #7526]  INFO -- : creating schedule version 1
+I, [2006-05-30T10:56:29.893004 #7526]  INFO -- : adding classrooms
+I, [2006-05-30T10:56:30.103397 #7526]  INFO -- : adding timeslots
+I, [2006-05-30T10:56:30.145943 #7526]  INFO -- : adding course meetings
+I, [2006-05-30T10:56:30.154115 #7526]  INFO -- : adding constraints information
+I, [2006-05-30T10:56:30.199318 #7526]  INFO -- : starting DRB
+I, [2006-05-30T11:03:25.147353 #7572]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:03:25.148138 #7572]  INFO -- : adding classrooms
+I, [2006-05-30T11:03:25.322026 #7572]  INFO -- : adding timeslots
+I, [2006-05-30T11:03:25.363642 #7572]  INFO -- : adding course meetings
+I, [2006-05-30T11:03:25.371580 #7572]  INFO -- : adding constraints information
+I, [2006-05-30T11:03:25.431867 #7572]  INFO -- : starting DRB
+I, [2006-05-30T11:03:57.120888 #7598]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:03:57.121619 #7598]  INFO -- : adding classrooms
+I, [2006-05-30T11:03:57.131285 #7598]  INFO -- : adding timeslots
+I, [2006-05-30T11:03:57.169203 #7598]  INFO -- : adding course meetings
+I, [2006-05-30T11:03:57.177466 #7598]  INFO -- : adding constraints information
+I, [2006-05-30T11:03:57.223736 #7598]  INFO -- : starting DRB
+I, [2006-05-30T11:03:57.279757 #7598]  INFO -- : started scheduler
+I, [2006-05-30T11:03:57.280063 #7598]  INFO -- : score: 0
+I, [2006-05-30T11:04:20.486246 #7598]  INFO -- : creating schedule version 2
+I, [2006-05-30T11:04:20.486992 #7598]  INFO -- : adding classrooms
+I, [2006-05-30T11:04:20.496879 #7598]  INFO -- : adding timeslots
+I, [2006-05-30T11:04:20.536620 #7598]  INFO -- : adding course meetings
+I, [2006-05-30T11:04:20.545974 #7598]  INFO -- : adding constraints information
+I, [2006-05-30T11:04:20.606635 #7598]  INFO -- : starting DRB
+I, [2006-05-30T11:05:15.014633 #7635]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:05:15.015369 #7635]  INFO -- : adding classrooms
+I, [2006-05-30T11:05:15.026682 #7635]  INFO -- : adding timeslots
+I, [2006-05-30T11:05:15.231165 #7635]  INFO -- : adding course meetings
+I, [2006-05-30T11:05:15.239026 #7635]  INFO -- : adding constraints information
+I, [2006-05-30T11:05:15.284578 #7635]  INFO -- : starting DRB
+I, [2006-05-30T11:05:47.922176 #7663]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:05:47.922921 #7663]  INFO -- : adding classrooms
+I, [2006-05-30T11:05:48.100544 #7663]  INFO -- : adding timeslots
+I, [2006-05-30T11:05:48.143442 #7663]  INFO -- : adding course meetings
+I, [2006-05-30T11:05:48.151325 #7663]  INFO -- : adding constraints information
+I, [2006-05-30T11:05:48.207947 #7663]  INFO -- : starting DRB
+I, [2006-05-30T11:06:14.713909 #7690]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:06:14.714889 #7690]  INFO -- : adding classrooms
+I, [2006-05-30T11:06:14.875867 #7690]  INFO -- : adding timeslots
+I, [2006-05-30T11:06:14.914907 #7690]  INFO -- : adding course meetings
+I, [2006-05-30T11:06:14.922837 #7690]  INFO -- : adding constraints information
+I, [2006-05-30T11:06:14.982911 #7690]  INFO -- : starting DRB
+I, [2006-05-30T11:06:15.017153 #7690]  INFO -- : started scheduler
+I, [2006-05-30T11:06:15.017442 #7690]  INFO -- : score: 0
+I, [2006-05-30T11:06:32.880581 #7690]  INFO -- : creating schedule version 2
+I, [2006-05-30T11:06:32.880797 #7690]  INFO -- : adding classrooms
+I, [2006-05-30T11:06:32.890540 #7690]  INFO -- : adding timeslots
+I, [2006-05-30T11:06:32.920547 #7690]  INFO -- : adding course meetings
+I, [2006-05-30T11:06:32.941082 #7690]  INFO -- : adding constraints information
+I, [2006-05-30T11:06:33.136057 #7690]  INFO -- : starting DRB
+I, [2006-05-30T11:06:33.173085 #7690]  INFO -- : started scheduler
+I, [2006-05-30T11:06:33.173355 #7690]  INFO -- : score: 0
+I, [2006-05-30T11:08:03.116316 #7690]  INFO -- : creating schedule version 3
+I, [2006-05-30T11:08:03.117106 #7690]  INFO -- : adding classrooms
+I, [2006-05-30T11:08:03.127740 #7690]  INFO -- : adding timeslots
+I, [2006-05-30T11:08:03.168096 #7690]  INFO -- : adding course meetings
+I, [2006-05-30T11:08:03.204626 #7690]  INFO -- : adding constraints information
+I, [2006-05-30T11:08:03.438268 #7690]  INFO -- : starting DRB
+I, [2006-05-30T11:08:03.552236 #7690]  INFO -- : score: 0
+I, [2006-05-30T11:09:02.140033 #7799]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:09:02.140788 #7799]  INFO -- : adding classrooms
+I, [2006-05-30T11:09:02.321318 #7799]  INFO -- : adding timeslots
+I, [2006-05-30T11:09:02.361341 #7799]  INFO -- : adding course meetings
+I, [2006-05-30T11:09:02.383660 #7799]  INFO -- : adding constraints information
+I, [2006-05-30T11:09:02.439964 #7799]  INFO -- : starting DRB
+I, [2006-05-30T11:09:02.597728 #7799]  INFO -- : started scheduler
+I, [2006-05-30T11:09:02.598123 #7799]  INFO -- : score: 0
+I, [2006-05-30T11:10:03.428200 #7827]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:10:03.429233 #7827]  INFO -- : adding classrooms
+I, [2006-05-30T11:10:03.438843 #7827]  INFO -- : adding timeslots
+I, [2006-05-30T11:10:03.476921 #7827]  INFO -- : adding course meetings
+I, [2006-05-30T11:10:03.500018 #7827]  INFO -- : adding constraints information
+I, [2006-05-30T11:10:03.594799 #7827]  INFO -- : starting DRB
+I, [2006-05-30T11:10:03.757884 #7827]  INFO -- : started scheduler
+I, [2006-05-30T11:10:03.758280 #7827]  INFO -- : score: 0
+I, [2006-05-30T11:11:10.917314 #7852]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:11:10.918070 #7852]  INFO -- : adding classrooms
+I, [2006-05-30T11:11:11.082903 #7852]  INFO -- : adding timeslots
+I, [2006-05-30T11:11:11.121894 #7852]  INFO -- : adding course meetings
+I, [2006-05-30T11:11:11.142942 #7852]  INFO -- : adding constraints information
+I, [2006-05-30T11:11:11.199728 #7852]  INFO -- : starting DRB
+I, [2006-05-30T11:11:11.350990 #7852]  INFO -- : started scheduler
+I, [2006-05-30T11:11:11.351264 #7852]  INFO -- : score: 0
+I, [2006-05-30T11:12:48.098005 #7888]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:12:48.098746 #7888]  INFO -- : adding classrooms
+I, [2006-05-30T11:12:48.108562 #7888]  INFO -- : adding timeslots
+I, [2006-05-30T11:12:48.160836 #7888]  INFO -- : adding course meetings
+I, [2006-05-30T11:12:48.184624 #7888]  INFO -- : adding constraints information
+I, [2006-05-30T11:12:48.242805 #7888]  INFO -- : starting DRB
+I, [2006-05-30T11:12:48.408075 #7888]  INFO -- : started scheduler
+I, [2006-05-30T11:12:48.408445 #7888]  INFO -- : score: 0
+I, [2006-05-30T11:17:47.886804 #8160]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:17:47.887536 #8160]  INFO -- : adding classrooms
+I, [2006-05-30T11:17:47.903058 #8160]  INFO -- : adding timeslots
+I, [2006-05-30T11:17:48.102061 #8160]  INFO -- : adding course meetings
+I, [2006-05-30T11:17:48.125031 #8160]  INFO -- : adding constraints information
+I, [2006-05-30T11:17:48.270387 #8160]  INFO -- : starting DRB
+I, [2006-05-30T11:17:48.421355 #8160]  INFO -- : started scheduler
+I, [2006-05-30T11:17:48.421688 #8160]  INFO -- : score: 0
+I, [2006-05-30T11:22:47.804625 #8198]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:22:47.805363 #8198]  INFO -- : adding classrooms
+I, [2006-05-30T11:22:47.817206 #8198]  INFO -- : adding timeslots
+I, [2006-05-30T11:22:48.017660 #8198]  INFO -- : adding course meetings
+I, [2006-05-30T11:22:48.040462 #8198]  INFO -- : adding constraints information
+I, [2006-05-30T11:22:48.112872 #8198]  INFO -- : starting DRB
+I, [2006-05-30T11:22:48.268096 #8198]  INFO -- : started scheduler
+I, [2006-05-30T11:22:48.268442 #8198]  INFO -- : score: 0
+I, [2006-05-30T11:44:37.894572 #8258]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:44:37.895336 #8258]  INFO -- : adding classrooms
+I, [2006-05-30T11:44:37.905369 #8258]  INFO -- : adding timeslots
+I, [2006-05-30T11:44:37.944847 #8258]  INFO -- : adding course meetings
+I, [2006-05-30T11:44:37.967304 #8258]  INFO -- : adding constraints information
+I, [2006-05-30T11:44:38.194111 #8258]  INFO -- : starting DRB
+I, [2006-05-30T11:44:38.346592 #8258]  INFO -- : started scheduler
+I, [2006-05-30T11:44:38.346912 #8258]  INFO -- : score: 0
+I, [2006-05-30T11:53:16.487121 #8323]  INFO -- : creating schedule version 1
+I, [2006-05-30T11:53:16.487849 #8323]  INFO -- : adding classrooms
+I, [2006-05-30T11:53:16.497759 #8323]  INFO -- : adding timeslots
+I, [2006-05-30T11:53:16.536851 #8323]  INFO -- : adding course meetings
+I, [2006-05-30T11:53:16.558850 #8323]  INFO -- : adding constraints information
+I, [2006-05-30T11:53:16.613357 #8323]  INFO -- : starting DRB
+I, [2006-05-30T11:53:16.774153 #8323]  INFO -- : started scheduler
+I, [2006-05-30T11:53:17.007088 #8323]  INFO -- : score: 0
+I, [2006-05-30T12:53:59.296350 #8544]  INFO -- : creating schedule version 1
+I, [2006-05-30T12:53:59.297081 #8544]  INFO -- : adding classrooms
+I, [2006-05-30T12:53:59.476321 #8544]  INFO -- : adding timeslots
+I, [2006-05-30T12:53:59.517516 #8544]  INFO -- : adding course meetings
+I, [2006-05-30T12:53:59.558517 #8544]  INFO -- : adding constraints information
+I, [2006-05-30T12:53:59.614144 #8544]  INFO -- : starting DRB
+I, [2006-05-30T12:53:59.766529 #8544]  INFO -- : started scheduler
+I, [2006-05-30T12:53:59.767535 #8544]  INFO -- : score: 0
+I, [2006-05-30T13:02:13.057336 #8733]  INFO -- : creating schedule version 1
+I, [2006-05-30T13:02:13.058077 #8733]  INFO -- : adding classrooms
+I, [2006-05-30T13:02:13.067750 #8733]  INFO -- : adding timeslots
+I, [2006-05-30T13:02:13.106012 #8733]  INFO -- : adding course meetings
+I, [2006-05-30T13:02:13.127008 #8733]  INFO -- : adding constraints information
+I, [2006-05-30T13:02:13.182016 #8733]  INFO -- : starting DRB
+I, [2006-05-30T13:02:13.341864 #8733]  INFO -- : started scheduler
+I, [2006-05-30T13:02:13.342088 #8733]  INFO -- : score: 0
+I, [2006-05-30T13:45:29.458199 #8733]  INFO -- : creating schedule version 2
+I, [2006-05-30T13:45:29.458986 #8733]  INFO -- : adding classrooms
+I, [2006-05-30T13:45:29.480034 #8733]  INFO -- : adding timeslots
+I, [2006-05-30T13:45:29.684530 #8733]  INFO -- : adding course meetings
+I, [2006-05-30T13:45:29.715064 #8733]  INFO -- : adding constraints information
+I, [2006-05-30T13:45:29.757523 #8733]  INFO -- : starting DRB
+I, [2006-05-30T13:45:29.927972 #8733]  INFO -- : started scheduler
+I, [2006-05-30T13:45:29.928327 #8733]  INFO -- : score: 0
+I, [2006-05-30T13:54:14.141608 #11549]  INFO -- : creating schedule version 1
+I, [2006-05-30T13:54:14.142336 #11549]  INFO -- : adding classrooms
+I, [2006-05-30T13:54:14.322395 #11549]  INFO -- : adding timeslots
+I, [2006-05-30T13:54:14.362969 #11549]  INFO -- : adding course meetings
+I, [2006-05-30T13:54:14.384663 #11549]  INFO -- : adding constraints information
+I, [2006-05-30T13:54:14.440934 #11549]  INFO -- : starting DRB
+I, [2006-05-30T13:54:14.589026 #11549]  INFO -- : started scheduler
+I, [2006-05-30T13:54:14.589388 #11549]  INFO -- : score: 0

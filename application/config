@@ -1,0 +1,19 @@
+# hashed password for system administrator
+system=585b1ac3cf671553e11f61fa6f1d5302
+
+# application layer
+application_host=localhost
+application_port=1234
+
+# data layer
+data_host=localhost
+data_port=4242
+
+# logfiles
+logdir=/home/thomas/vub/prp/code/application/log/
+
+# genetic algorithm
+iterations=2
+population_size=2
+crossover_chance=0.5
+mutation_chance=0.5

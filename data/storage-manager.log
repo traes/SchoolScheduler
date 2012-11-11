@@ -1,0 +1,178 @@
+# Logfile created on Tue May 30 13:54:05 CEST 2006 by logger.rb/1.5.2.4
+I, [2006-05-30T13:54:09.860387 #11553]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T13:54:09.860632 #11553]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T13:54:09.875999 #11553]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T13:54:09.876208 #11553]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T13:54:14.145343 #11553]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T13:54:14.145525 #11553]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T13:54:14.324901 #11553]  INFO -- : <REQUEST operation='get-timeslot'/>
+I, [2006-05-30T13:54:14.325091 #11553]  INFO -- : select * from DataSchoolTimeslots
+I, [2006-05-30T13:54:14.365559 #11553]  INFO -- : <REQUEST operation='get-course-meeting'/>
+I, [2006-05-30T13:54:14.365749 #11553]  INFO -- : select * from DataSchoolCoursemeetings, DataSchoolCourses, DataSchoolTeachers, DataSchoolElectivegroups, DataSchoolDirections where CourseId = DataSchoolCourses.Id and TeacherId = DataSchoolTeachers.Id and ElectivegroupId = DataSchoolElectivegroups.Id and DirectionId = DataSchoolDirections.Id
+I, [2006-05-30T13:54:14.387573 #11553]  INFO -- : <REQUEST operation='get-penalty'/>
+I, [2006-05-30T13:54:14.387772 #11553]  INFO -- : select * from DataConstraintsPenalties
+I, [2006-05-30T13:54:14.393930 #11553]  INFO -- : <REQUEST operation='get-required-classroom'/>
+I, [2006-05-30T13:54:14.394114 #11553]  INFO -- : select * from DataConstraintsRequiredClassrooms, DataSchoolCourses, DataSchoolClassrooms where CourseId = DataSchoolCourses.Id and ClassroomId = DataSchoolClassrooms.Id
+I, [2006-05-30T13:54:14.411733 #11553]  INFO -- : <REQUEST operation='get-restricted-course'/>
+I, [2006-05-30T13:54:14.411950 #11553]  INFO -- : select * from DataConstraintsRestrictedCourses, DataSchoolClassrooms, DataSchoolCourses where ClassroomId = DataSchoolClassrooms.Id and CourseId = DataSchoolCourses.Id
+I, [2006-05-30T13:54:14.417099 #11553]  INFO -- : <REQUEST operation='get-restricted-timeslot'/>
+I, [2006-05-30T13:54:14.417296 #11553]  INFO -- : select * from DataConstraintsRestrictedTimeslots, DataSchoolDirections, DataSchoolTimeslots where DirectionId =  DataSchoolDirections.Id and TimeslotId = DataSchoolTimeslots.Id
+I, [2006-05-30T13:54:14.423980 #11553]  INFO -- : <REQUEST operation='get-group-student'/>
+E, [2006-05-30T13:54:14.424425 #11553] ERROR -- : cannot execute request
+I, [2006-05-30T13:54:14.427936 #11553]  INFO -- : <REQUEST operation='get-teacher-timeslot'/>
+I, [2006-05-30T13:54:14.428134 #11553]  INFO -- : select * from DataConstraintsTeacherTimeslots, DataSchoolTimeslots, DataSchoolTeachers where TimeslotId = DataSchoolTimeslots.Id and TeacherId = DataSchoolTeachers.Id
+I, [2006-05-30T13:54:14.435682 #11553]  INFO -- : <REQUEST operation='get-classroom-unavailable'/>
+I, [2006-05-30T13:54:14.435881 #11553]  INFO -- : select * from DataConstraintsClassroomsUnavailable, DataSchoolClassrooms, DataSchoolTimeslots where ClassroomId = DataSchoolClassrooms.Id and TimeslotId = DataSchoolTimeslots.Id
+I, [2006-05-30T13:54:14.447903 #11553]  INFO -- : <REQUEST operation='get-node'/>
+I, [2006-05-30T13:54:14.448085 #11553]  INFO -- : select * from SystemNodes
+I, [2006-05-30T14:00:53.426618 #11553]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T14:00:53.426827 #11553]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T14:00:53.432681 #11553]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T14:00:53.432881 #11553]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T14:01:05.756930 #11553]  INFO -- : <REQUEST username='Thomas' operation='get-password'/>
+I, [2006-05-30T14:01:05.757259 #11553]  INFO -- : select Password from SystemAccounts where Username = 'Thomas'
+I, [2006-05-30T14:01:05.773629 #11553]  INFO -- : <REQUEST username='Thomas' operation='get-usertype'/>
+I, [2006-05-30T14:01:05.773869 #11553]  INFO -- : select Usertype from SystemAccounts where Username = 'Thomas'
+I, [2006-05-30T14:01:14.031537 #11553]  INFO -- : <REQUEST username='A. Einstein' operation='get-password'/>
+I, [2006-05-30T14:01:14.031742 #11553]  INFO -- : select Password from SystemAccounts where Username = 'A. Einstein'
+I, [2006-05-30T14:01:14.037254 #11553]  INFO -- : <REQUEST username='A. Einstein' operation='get-usertype'/>
+I, [2006-05-30T14:01:14.038712 #11553]  INFO -- : select Usertype from SystemAccounts where Username = 'A. Einstein'
+I, [2006-05-30T15:08:10.727578 #12232]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:08:10.727917 #12232]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:08:10.742545 #12232]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:08:10.742755 #12232]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:08:13.613432 #12232]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T15:08:13.613600 #12232]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T15:08:27.116016 #12232]  INFO -- : <REQUEST operation='get-course'/>
+I, [2006-05-30T15:08:27.116248 #12232]  INFO -- : select * from DataSchoolCourses
+I, [2006-05-30T15:08:27.129870 #12232]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T15:08:27.130046 #12232]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T15:08:27.158897 #12232]  INFO -- : <REQUEST operation='get-required-classroom'/>
+I, [2006-05-30T15:08:27.159087 #12232]  INFO -- : select * from DataConstraintsRequiredClassrooms, DataSchoolCourses, DataSchoolClassrooms where CourseId = DataSchoolCourses.Id and ClassroomId = DataSchoolClassrooms.Id
+I, [2006-05-30T15:08:42.943236 #12232]  INFO -- : <REQUEST operation='get-course'/>
+I, [2006-05-30T15:08:42.943440 #12232]  INFO -- : select * from DataSchoolCourses
+I, [2006-05-30T15:08:42.956856 #12232]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T15:08:42.957034 #12232]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T15:08:42.986919 #12232]  INFO -- : <REQUEST classroom='5' operation='add-required-classroom' course='11'/>
+I, [2006-05-30T15:08:42.987160 #12232]  INFO -- : insert into DataConstraintsRequiredClassrooms (Id,CourseId,ClassroomId) values (NULL,'11','5')
+I, [2006-05-30T15:08:43.008179 #12232]  INFO -- : <REQUEST operation='get-required-classroom'/>
+I, [2006-05-30T15:08:43.008374 #12232]  INFO -- : select * from DataConstraintsRequiredClassrooms, DataSchoolCourses, DataSchoolClassrooms where CourseId = DataSchoolCourses.Id and ClassroomId = DataSchoolClassrooms.Id
+I, [2006-05-30T15:23:55.419743 #12232]  INFO -- : <REQUEST operation='get-password'/>
+I, [2006-05-30T15:23:55.420156 #12232]  INFO -- : select Password from SystemAccounts where Username = ''
+E, [2006-05-30T15:23:55.421250 #12232] ERROR -- : cannot execute request
+I, [2006-05-30T15:24:09.214449 #12232]  INFO -- : <REQUEST operation='get-password'/>
+I, [2006-05-30T15:24:09.214660 #12232]  INFO -- : select Password from SystemAccounts where Username = ''
+E, [2006-05-30T15:24:09.215794 #12232] ERROR -- : cannot execute request
+I, [2006-05-30T15:24:17.783080 #12232]  INFO -- : <REQUEST operation='get-password'/>
+I, [2006-05-30T15:24:17.783290 #12232]  INFO -- : select Password from SystemAccounts where Username = ''
+E, [2006-05-30T15:24:17.784434 #12232] ERROR -- : cannot execute request
+I, [2006-05-30T15:24:42.493199 #12355]  INFO -- : <REQUEST operation='get-password'/>
+I, [2006-05-30T15:24:42.493529 #12355]  INFO -- : select Password from SystemAccounts where Username = ''
+E, [2006-05-30T15:24:42.504775 #12355] ERROR -- : cannot execute request
+I, [2006-05-30T15:25:24.203234 #12355]  INFO -- : <REQUEST operation='get-password'/>
+I, [2006-05-30T15:25:24.203445 #12355]  INFO -- : select Password from SystemAccounts where Username = ''
+E, [2006-05-30T15:25:24.204707 #12355] ERROR -- : cannot execute request
+I, [2006-05-30T15:27:04.363910 #12355]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:27:04.364151 #12355]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:27:04.369524 #12355]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:27:04.369729 #12355]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:30:42.693820 #12355]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:30:42.694029 #12355]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:30:42.699420 #12355]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:30:42.699623 #12355]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:31:32.192908 #12355]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:31:32.193110 #12355]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:31:32.198744 #12355]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:31:32.198942 #12355]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:31:39.054618 #12355]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:31:39.054825 #12355]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:31:39.061388 #12355]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:31:39.061591 #12355]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:39:29.920216 #12355]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:39:29.920423 #12355]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:39:29.926037 #12355]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:39:29.926240 #12355]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:39:31.795666 #12355]  INFO -- : <REQUEST operation='get-direction'/>
+I, [2006-05-30T15:39:31.795868 #12355]  INFO -- : select * from DataSchoolDirections
+I, [2006-05-30T15:40:16.967516 #12355]  INFO -- : <REQUEST username='fqfdq' operation='get-password'/>
+I, [2006-05-30T15:40:16.967722 #12355]  INFO -- : select Password from SystemAccounts where Username = 'fqfdq'
+E, [2006-05-30T15:40:16.968878 #12355] ERROR -- : cannot execute request
+I, [2006-05-30T15:53:39.387541 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:53:39.387872 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:53:39.402186 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:53:39.402389 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:56:53.240332 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T15:56:53.240534 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T15:56:53.246000 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T15:56:53.246203 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:04:01.684256 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:04:01.684702 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:04:01.690028 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:04:01.690225 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:04:05.284156 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:04:05.284338 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:12:06.951235 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:12:06.951417 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:12:22.355649 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:12:22.355830 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:12:33.830084 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:12:33.830412 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:13:30.168843 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:13:30.169197 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:13:31.130892 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:13:31.131071 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:13:39.157668 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:13:39.158000 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:13:39.761238 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:13:39.761443 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:13:44.234022 #16405]  INFO -- : <REQUEST operation='get-teacher'/>
+I, [2006-05-30T16:13:44.234226 #16405]  INFO -- : select * from DataSchoolTeachers
+I, [2006-05-30T16:15:25.289090 #16405]  INFO -- : <REQUEST operation='get-teacher'/>
+I, [2006-05-30T16:15:25.289291 #16405]  INFO -- : select * from DataSchoolTeachers
+I, [2006-05-30T16:21:06.134372 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:21:06.134578 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:22:47.337893 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:22:47.338101 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:22:47.343703 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:22:47.343902 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:24:19.457105 #16405]  INFO -- : <REQUEST username='syste' operation='get-password'/>
+I, [2006-05-30T16:24:19.457312 #16405]  INFO -- : select Password from SystemAccounts where Username = 'syste'
+E, [2006-05-30T16:24:19.458466 #16405] ERROR -- : cannot execute request
+I, [2006-05-30T16:26:12.450960 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:26:12.451164 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:26:19.578012 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:26:19.578222 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:26:19.584819 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:26:19.585019 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:26:36.781138 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:26:36.781327 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:26:36.787122 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:26:36.787324 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:29:22.366918 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:29:22.367123 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:29:22.372616 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:29:22.372817 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:29:24.898194 #16405]  INFO -- : <REQUEST operation='get-timeslot'/>
+I, [2006-05-30T16:29:24.898657 #16405]  INFO -- : select * from DataSchoolTimeslots
+I, [2006-05-30T16:54:59.308252 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T16:54:59.308489 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:54:59.314016 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T16:54:59.314215 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T16:55:01.314853 #16405]  INFO -- : <REQUEST operation='get-course'/>
+I, [2006-05-30T16:55:01.315051 #16405]  INFO -- : select * from DataSchoolCourses
+I, [2006-05-30T16:55:05.571527 #16405]  INFO -- : <REQUEST operation='get-classroom'/>
+I, [2006-05-30T16:55:05.571710 #16405]  INFO -- : select * from DataSchoolClassrooms
+I, [2006-05-30T16:57:01.120982 #16405]  INFO -- : <REQUEST operation='get-teacher'/>
+I, [2006-05-30T16:57:01.121189 #16405]  INFO -- : select * from DataSchoolTeachers
+I, [2006-05-30T16:57:01.134822 #16405]  INFO -- : <REQUEST operation='get-timeslot'/>
+I, [2006-05-30T16:57:01.135007 #16405]  INFO -- : select * from DataSchoolTimeslots
+I, [2006-05-30T16:57:01.212223 #16405]  INFO -- : <REQUEST operation='get-teacher-timeslot'/>
+I, [2006-05-30T16:57:01.212412 #16405]  INFO -- : select * from DataConstraintsTeacherTimeslots, DataSchoolTimeslots, DataSchoolTeachers where TimeslotId = DataSchoolTimeslots.Id and TeacherId = DataSchoolTeachers.Id
+I, [2006-05-30T17:02:38.239209 #16405]  INFO -- : <REQUEST username='data' operation='get-password'/>
+I, [2006-05-30T17:02:38.239412 #16405]  INFO -- : select Password from SystemAccounts where Username = 'data'
+I, [2006-05-30T17:02:38.245247 #16405]  INFO -- : <REQUEST username='data' operation='get-usertype'/>
+I, [2006-05-30T17:02:38.245446 #16405]  INFO -- : select Usertype from SystemAccounts where Username = 'data'
+I, [2006-05-30T17:02:40.395307 #16405]  INFO -- : <REQUEST operation='get-course'/>
+I, [2006-05-30T17:02:40.395516 #16405]  INFO -- : select * from DataSchoolCourses
+I, [2006-05-30T17:02:43.696579 #16405]  INFO -- : <REQUEST operation='get-electivegroup'/>
+I, [2006-05-30T17:02:43.696763 #16405]  INFO -- : select * from DataSchoolElectivegroups
